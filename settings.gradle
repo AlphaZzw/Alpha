@@ -3,4 +3,3 @@ include ':alpha-core'
 include ':alpha-compiler'
 include ':alpha-annotations'
 include ':app'
-rootProject.name = "alpha"
